@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PRABHU_SYMBOLS)(type Legacy)(uri C:/Users/prabhu/Desktop/my_data/git/pcb/pcb/library/lib-sch/PRABHU_SYMBOLS.lib)(options "")(descr ""))
+  (lib (name rl78-gsm-rescue)(type Legacy)(uri ${KIPRJMOD}/rl78-gsm-rescue.lib)(options "")(descr ""))
+)
