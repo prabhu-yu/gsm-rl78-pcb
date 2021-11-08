@@ -1,5 +1,5 @@
 # GSM-RL78-PCB
-![3D PCB View](./rl78-lfqfp48-rev-1.3/rl78-gsm.jpg)
+![3D PCB View](./rl78-lfqfp48-rev-1.3/rl78-gsm.png)
 
 - Designed using KiCAD PCB Design SW.
 - GSM modem Interface to RL78 uC using AT-MODEM commands over UART. Using this, we can build 2G/3G/4G wireless automation device. 
